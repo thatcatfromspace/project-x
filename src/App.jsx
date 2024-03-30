@@ -1,7 +1,7 @@
 import { useState } from "react";
 import lock from "./assets/lock.svg";
 import mail from "./assets/mail.svg";
-
+import { Router, Routes, Route } from "react-router-dom";
 function App() {
   const [loginBackground, setLoginBackground] = useState(true);
 
