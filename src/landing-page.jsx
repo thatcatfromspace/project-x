@@ -92,7 +92,7 @@ export default function LandingPage() {
                 errors.password.message.slice(1)}
             </p>
           )}
-          <div className="flex justify-center mt-3">
+          <div className="flex justify-center mt-3">--
             <div className="ps-auto">Forgot password?</div>
           </div>
           <div className="flex justify-center w-full mt-5">
